@@ -16,6 +16,8 @@ string longestNiceSubstring(string s) {
         return s;
     }
 };
+![image](https://github.com/user-attachments/assets/e607dd4e-587d-4c79-b3d9-a7da0cc9e519)
+
 # 2. Reverse Bits
 class Solution {
 public:
